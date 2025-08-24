@@ -1,1 +1,1 @@
-aiogram# clinicbot
+aiogram==2.25.1# clinicbot
